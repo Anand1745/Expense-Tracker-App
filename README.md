@@ -74,13 +74,11 @@ Expense-Tracker-App/
 │   ├── analysis.py
 │   └── ml_model.py
 │
-├── app/
-│   └── dashboard.py
-│
 ├── images/
 ├── outputs/
 │
-├── run.py
+├── app.py
+├── main.py
 ├── requirements.txt
 └── README.md
 ```
