@@ -90,7 +90,7 @@ Expense-Tracker-App/
 1. Clone the repository:
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/Anand1745/Expense-Tracker-App.git
 cd Expense-Tracker-App
 ```
 
